@@ -1,5 +1,5 @@
-<!-- List of People who are hiring on LinkedIn with an Open Profile (You can message without being firend) -->
-# Hiring on LinkedIn (Mostly at Bay Area)
+# Hiring on LinkedIn (Mostly at Bay Area) 
+## Open Profile (You can message without being friend)
 ### Last Updated: May 21, 2024 
 In case you wonder how the data gatherd look at the [script](/app.py) should be self-explanatory. (100 pages is the limit for the LinkedIn search API)
 | Name | Title | Company |
