@@ -1,5 +1,5 @@
 # Hiring on LinkedIn (Mostly at Bay Area) 
-## Open Profile (You can message without being friend)
+## Profiles Open for Messaging (No Connection Required)
 ### Last Updated: May 21, 2024 
 In case you wonder how the data gatherd look at the [script](/app.py) should be self-explanatory. (100 pages is the limit for the LinkedIn search API)
 | Name | Title | Company |
